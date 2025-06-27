@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Justia<br>🌱 I’m currently learning TailwindCSS, Flutter, and more stuff related with Laravel<br>💬 Ask me about any topic!
+<!-- 🔭 I’m currently working on Justia<br> -->
+🌱 I’m currently learning TailwindCSS, Flutter, and more stuff related with Laravel<br>💬 Ask me about any topic!
 
 
 ## 🌐 Socials:
